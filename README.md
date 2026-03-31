@@ -1,16 +1,17 @@
-## Hi there 👋
+Name:
+Mohammad Zaid Anees
 
-<!--
-**mohammad25bce10538/mohammad25bce10538** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Branch:
+CSE Core
 
-Here are some ideas to get you started:
+Year:
+1st Year
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+University:
+Vellore Institute of Technology, Bhopal
+
+About Me:
+I am a curious and motivated Computer Science student who enjoys building, learning, and exploring new technologies. I believe in learning by doing and constantly improving my skills through real-world projects.
+
+What I Hope to Learn:
+I aim to develop strong fundamentals in programming and problem-solving. My main interest lies in Artificial Intelligence and Machine Learning, where I want to explore advanced areas like Large Language Models (LLMs) and their real-world applications. I also aspire to work on impactful projects that solve real problems.
